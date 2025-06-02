@@ -7,7 +7,8 @@
 ---
 
 ### 🚀 Sobre mim
-Sou um profissional com experiência em QA manual e automatizado, atuando com ferramentas como **Selenium**, **Cypress**, **Cucumber**, além de desenvolvimento backend com **Python**, **Node.js**, **Django** e **Express**. Também trabalho com APIs, testes com **Newman**, **Postman** e organização de tarefas com **Jira** e **Confluence**. Tenho domínio de tecnologias web como **HTML**, **CSS** e **JavaScript**.
+
+Sou um profissional com mais de 3 anos de experiência prática em QA manual e automatizado. Atuo com **Selenium**, **Cypress**, **Cucumber**, **Postman**, **Newman** e desenvolvimento backend com **Python**, **Node.js**, **Express** e **Django**. Tenho vivência com testes em APIs REST, frameworks de testes, versionamento com Git/GitHub e organização com **Jira** e **Confluence**.
 
 ---
 
@@ -32,11 +33,17 @@ Sou um profissional com experiência em QA manual e automatizado, atuando com fe
 
 ### 📌 Projetos em destaque
 
-🔹 [**Automação de Testes com Cypress e Cucumber**](https://github.com/ValdeciMacedo/seu-repo-aqui)  
-Sistema de testes automatizados com BDD, integração com CI e cobertura de testes via Allure.
+🔹 [**Automação de Testes com Cypress e Cucumber**](https://github.com/ValdeciMacedo/cypress-cucumber-allure-example)  
+Sistema de testes BDD com relatórios Allure, boas práticas de QA e integração com CI/CD.
 
-🔹 [**API em Python com FastAPI**](https://github.com/ValdeciMacedo/seu-repo-aqui)  
-Backend simples para cadastro de usuários, testado com pytest e requests.
+🔹 [**API com Python + FastAPI**](https://github.com/ValdeciMacedo/api-fastapi-usuarios)  
+API para cadastro e login de usuários com autenticação JWT e testes com Pytest.
+
+🔹 [**Sistema de Login com Jest**](https://github.com/ValdeciMacedo/jest-login-system)  
+Testes unitários usando Jest e validação de autenticação simples.
+
+🔹 [**Portfólio de Testes Automatizados com Postman/Newman**](https://github.com/ValdeciMacedo/api-test-postman-newman)  
+Coleções de testes automatizados com validação de respostas e integração com pipeline.
 
 ---
 
@@ -52,7 +59,7 @@ Backend simples para cadastro de usuários, testado com pytest e requests.
 ### 🌐 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valdeci-macedo/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:walmacedo1@hotmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:walmacedo05@gmail.com)
 
 ---
 
